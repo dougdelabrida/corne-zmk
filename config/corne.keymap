@@ -50,7 +50,7 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&kp TAB    &kp BSLH      &kp AT                &kp HASH   &kp SINGLE_QUOTE       &kp PRCNT    &kp AMPS    &kp PLUS          &kp KP_MULTIPLY  &kp DOUBLE_QUOTES  &kp SEMI   &kp BSPC
+&kp TAB    &kp BSLH      &kp AT                &kp HASH   &kp SINGLE_QUOTE       &kp EXCL     &kp AMPS    &kp PLUS          &kp KP_MULTIPLY  &kp DOUBLE_QUOTES  &kp SEMI   &kp BSPC
 &kp LCTRL  &kp PRCNT     &kp LEFT_PARENTHESIS  &kp MINUS  &kp RIGHT_PARENTHESIS  &kp CARET    &kp DOLLAR  &kp LEFT_BRACE    &kp KP_EQUAL     &kp RIGHT_BRACE    &kp COLON  &kp GRAVE
 &kp LSHFT  &kp QUESTION  &kp LESS_THAN         &kp PIPE   &kp GREATER_THAN       &kp TILDE    &kp GRAVE   &kp LEFT_BRACKET  &kp UNDERSCORE   &kp RIGHT_BRACKET  &kp PIPE   &kp TILDE
                                                &kp LGUI   &trans                 &kp SPACE    &kp RET     &trans            &kp RALT
